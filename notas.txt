@@ -1,0 +1,14 @@
+git config --global user.name "fulano"
+git config --global user.email fulano@example.com
+
+git init // inicializa el repositorio
+
+git add . // marca cambios para commit
+git commit -m "etiqueta del commit" // crea el punto de restauración checkout
+
+git status  // muestra el estado actual del repositorio
+
+git log // muestra información de los checkouts
+git log --oneline // muestra info de los checkouts reducida 
+
+git checkout hashCode // restablece el punto de restauración al que refiere el hash 
