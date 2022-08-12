@@ -12,3 +12,6 @@ git log // muestra información de los checkouts
 git log --oneline // muestra info de los checkouts reducida 
 
 git checkout hashCode // restablece el punto de restauración al que refiere el hash 
+
+git branch <nombre> // crea una nueva rama 
+git branch -l       // lista las ramas
