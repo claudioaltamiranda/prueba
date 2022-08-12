@@ -15,3 +15,6 @@ git checkout hashCode // restablece el punto de restauración al que refiere el 
 
 git branch <nombre> // crea una nueva rama 
 git branch -l       // lista las ramas
+
+git checkout rama   // vamos al último checkout de la rama indicada 
+
