@@ -17,4 +17,6 @@ body {
   flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
+
+  background-color: rgba(0, 110, 255, 0.564);
 }

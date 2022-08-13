@@ -18,3 +18,6 @@ git branch -l       // lista las ramas
 
 git checkout rama   // vamos al último checkout de la rama indicada 
 
+git remote add origin https://github.com/claudioaltamiranda/prueba.git
+git branch -M main
+git push -u origin main
